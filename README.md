@@ -6,7 +6,7 @@ Finally, the average of the predictions by the two model was saved in ./final_su
 
 
 ### Dependencies
-python: 3.6
+python: 3.6 <br />
 keras: '2.1.3' <br />
 sklearn: '0.19.0' <br />
 pandas: '0.20.1' <br />
